@@ -1,0 +1,33 @@
+College Name:
+Muthayammal Engineering College
+
+Location:
+Rasipuram, Namakkal, Tamil Nadu
+
+Website:
+https://mec.edu.in
+
+Departments:
+CSE
+IT
+ECE
+EEE
+MECH
+CIVIL
+AI&DS
+MBA
+MCA
+
+The chatbot should answer questions related to:
+Departments
+Admissions
+Placements
+Hostel
+Transport
+Library
+Faculty
+Exam
+Timetable
+Academic Calendar
+Events
+Training
