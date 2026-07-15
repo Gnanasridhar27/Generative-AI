@@ -2,7 +2,7 @@ streamlit
 groq
 chromadb
 langchain
-langchain9-community
+langchain-community
 pypdf
 sentence-transformers
 python-dotenv
